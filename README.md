@@ -106,3 +106,4 @@ Use model.save() or torch.save() to save your model.
 
 OUTPUT :-
 
+![Image](https://github.com/user-attachments/assets/f076ab30-62bf-4dad-a307-b223282a6d5d)
